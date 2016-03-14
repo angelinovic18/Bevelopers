@@ -2,6 +2,7 @@
 	{float: left;
 		clear: both;
 		display: block;
+		position: fixed;
 		
 
 	}
@@ -10,12 +11,13 @@
 #div1 {
 	float: left;
 	border: 1px solid gray;
+	
 }
 
 #div2 {
 	float: left;
 	border: 1px solid gray;
-	
+
 }
 
 #div3 {
@@ -27,5 +29,6 @@
 	float: left;
 	border: 1px solid gray;
 }
-	
-	
+h1 {
+	font-size: 500px;
+	}
